@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📝 React Todo App
 
 A simple, modern, and user-friendly Todo application built with React. This project is designed to practice and demonstrate core React concepts such as components, state management, props, `useEffect`, and localStorage.
@@ -51,3 +52,7 @@ npm install
 # Start the development server
 npm start
 ```
+=======
+# todo-app
+React todo app
+>>>>>>> 4163253d215084dc74e333a9f6a3eb61479f856d
