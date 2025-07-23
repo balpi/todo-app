@@ -5,7 +5,7 @@ A simple, modern, and user-friendly Todo application built with React. This proj
 
 ## 🚀 Live Demo
 
-👉 [View Live App](https://your-deployment-link.com) _(replace with your actual link)_
+👉 [View Live App](https://todo-app-iota-nine-58.vercel.app/)
 
 ---
 
@@ -41,7 +41,7 @@ A simple, modern, and user-friendly Todo application built with React. This proj
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/balpi/todo-app.git
 
 # Navigate to the project directory
 cd todo-app
